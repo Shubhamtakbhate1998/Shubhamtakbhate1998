@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### About Me :
 
-I am Robotics Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA.
+I am a Robotics Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA.
 
 - 🔭 I’m working with drones.
 - 🌱 Exploring Computer vision.
